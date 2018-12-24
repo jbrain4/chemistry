@@ -1,0 +1,2157 @@
+{
+  "elements": [
+      {
+          "name": "Hydrogen",
+          "mass": 1.008,
+          "category": "diatomic nonmetal",
+          "number": 1,
+          "period": 1,
+          "phase": "Gas",
+          "symbol": "H",
+          "xpos": 1,
+          "ypos": 1,
+          "shells": [
+              1
+          ]
+      },
+      {
+          "name": "Helium",
+          "mass": 4.0026022,
+          "category": "noble gas",
+          "number": 2,
+          "period": 1,
+          "phase": "Gas",
+          "symbol": "He",
+          "xpos": 32,
+          "ypos": 1,
+          "shells": [
+              2
+          ]
+      },
+      {
+          "name": "Lithium",
+          "mass": 6.94,
+          "category": "alkali metal",
+          "number": 3,
+          "period": 2,
+          "phase": "Solid",
+          "symbol": "Li",
+          "xpos": 1,
+          "ypos": 2,
+          "shells": [
+              2,
+              1
+          ]
+      },
+      {
+          "name": "Beryllium",
+          "mass": 9.01218315,
+          "category": "alkaline earth metal",
+          "number": 4,
+          "period": 2,
+          "phase": "Solid",
+          "symbol": "Be",
+          "xpos": 2,
+          "ypos": 2,
+          "shells": [
+              2,
+              2
+          ]
+      },
+      {
+          "name": "Boron",
+          "mass": 10.81,
+          "category": "metalloid",
+          "number": 5,
+          "period": 2,
+          "phase": "Solid",
+          "symbol": "B",
+          "xpos": 27,
+          "ypos": 2,
+          "shells": [
+              2,
+              3
+          ]
+      },
+      {
+          "name": "Carbon",
+          "mass": 12.011,
+          "category": "polyatomic nonmetal",
+          "number": 6,
+          "period": 2,
+          "phase": "Solid",
+          "symbol": "C",
+          "xpos": 28,
+          "ypos": 2,
+          "shells": [
+              2,
+              4
+          ]
+      },
+      {
+          "name": "Nitrogen",
+          "mass": 14.007,
+          "category": "diatomic nonmetal",
+          "number": 7,
+          "period": 2,
+          "phase": "Gas",
+          "symbol": "N",
+          "xpos": 29,
+          "ypos": 2,
+          "shells": [
+              2,
+              5
+          ]
+      },
+      {
+          "name": "Oxygen",
+          "mass": 15.999,
+          "category": "diatomic nonmetal",
+          "number": 8,
+          "period": 2,
+          "phase": "Gas",
+          "symbol": "O",
+          "xpos": 30,
+          "ypos": 2,
+          "shells": [
+              2,
+              6
+          ]
+      },
+      {
+          "name": "Fluorine",
+          "mass": 18.9984031636,
+          "category": "diatomic halogen",
+          "number": 9,
+          "period": 2,
+          "phase": "Gas",
+          "symbol": "F",
+          "xpos": 31,
+          "ypos": 2,
+          "shells": [
+              2,
+              7
+          ]
+      },
+      {
+          "name": "Neon",
+          "mass": 20.17976,
+          "category": "noble gas",
+          "number": 10,
+          "period": 2,
+          "phase": "Gas",
+          "symbol": "Ne",
+          "xpos": 32,
+          "ypos": 2,
+          "shells": [
+              2,
+              8
+          ]
+      },
+      {
+          "name": "Sodium",
+          "mass": 22.989769282,
+          "category": "alkali metal",
+          "number": 11,
+          "period": 3,
+          "phase": "Solid",
+          "symbol": "Na",
+          "xpos": 1,
+          "ypos": 3,
+          "shells": [
+              2,
+              8,
+              1
+          ]
+      },
+      {
+          "name": "Magnesium",
+          "mass": 24.305,
+          "category": "alkaline earth metal",
+          "number": 12,
+          "period": 3,
+          "phase": "Solid",
+          "symbol": "Mg",
+          "xpos": 2,
+          "ypos": 3,
+          "shells": [
+              2,
+              8,
+              2
+          ]
+      },
+      {
+          "name": "Aluminium",
+          "mass": 26.98153857,
+          "category": "post-transition metal",
+          "number": 13,
+          "period": 3,
+          "phase": "Solid",
+          "symbol": "Al",
+          "xpos": 27,
+          "ypos": 3,
+          "shells": [
+              2,
+              8,
+              3
+          ]
+      },
+      {
+          "name": "Silicon",
+          "mass": 28.085,
+          "category": "metalloid",
+          "number": 14,
+          "period": 3,
+          "phase": "Solid",
+          "symbol": "Si",
+          "xpos": 28,
+          "ypos": 3,
+          "shells": [
+              2,
+              8,
+              4
+          ]
+      },
+      {
+          "name": "Phosphorus",
+          "mass": 30.9737619985,
+          "category": "polyatomic nonmetal",
+          "number": 15,
+          "period": 3,
+          "phase": "Solid",
+          "symbol": "P",
+          "xpos": 29,
+          "ypos": 3,
+          "shells": [
+              2,
+              8,
+              5
+          ]
+      },
+      {
+          "name": "Sulfur",
+          "mass": 32.06,
+          "category": "polyatomic nonmetal",
+          "number": 16,
+          "period": 3,
+          "phase": "Solid",
+          "symbol": "S",
+          "xpos": 30,
+          "ypos": 3,
+          "shells": [
+              2,
+              8,
+              6
+          ]
+      },
+      {
+          "name": "Chlorine",
+          "mass": 35.45,
+          "category": "diatomic halogen",
+          "number": 17,
+          "period": 3,
+          "phase": "Gas",
+          "symbol": "Cl",
+          "xpos": 31,
+          "ypos": 3,
+          "shells": [
+              2,
+              8,
+              7
+          ]
+      },
+      {
+          "name": "Argon",
+          "mass": 39.9481,
+          "category": "noble gas",
+          "number": 18,
+          "period": 3,
+          "phase": "Gas",
+          "symbol": "Ar",
+          "xpos": 32,
+          "ypos": 3,
+          "shells": [
+              2,
+              8,
+              8
+          ]
+      },
+      {
+          "name": "Potassium",
+          "mass": 39.09831,
+          "category": "alkali metal",
+          "number": 19,
+          "period": 4,
+          "phase": "Solid",
+          "symbol": "K",
+          "xpos": 1,
+          "ypos": 4,
+          "shells": [
+              2,
+              8,
+              8,
+              1
+          ]
+      },
+      {
+          "name": "Calcium",
+          "mass": 40.0784,
+          "category": "alkaline earth metal",
+          "number": 20,
+          "period": 4,
+          "phase": "Solid",
+          "symbol": "Ca",
+          "xpos": 2,
+          "ypos": 4,
+          "shells": [
+              2,
+              8,
+              8,
+              2
+          ]
+      },
+      {
+          "name": "Scandium",
+          "mass": 44.9559085,
+          "category": "transition metal",
+          "number": 21,
+          "period": 4,
+          "phase": "Solid",
+          "symbol": "Sc",
+          "xpos": 17,
+          "ypos": 4,
+          "shells": [
+              2,
+              8,
+              9,
+              2
+          ]
+      },
+      {
+          "name": "Titanium",
+          "mass": 47.8671,
+          "category": "transition metal",
+          "number": 22,
+          "period": 4,
+          "phase": "Solid",
+          "symbol": "Ti",
+          "xpos": 18,
+          "ypos": 4,
+          "shells": [
+              2,
+              8,
+              10,
+              2
+          ]
+      },
+      {
+          "name": "Vanadium",
+          "mass": 50.94151,
+          "category": "transition metal",
+          "number": 23,
+          "period": 4,
+          "phase": "Solid",
+          "symbol": "V",
+          "xpos": 19,
+          "ypos": 4,
+          "shells": [
+              2,
+              8,
+              11,
+              2
+          ]
+      },
+      {
+          "name": "Chromium",
+          "mass": 51.99616,
+          "category": "transition metal",
+          "number": 24,
+          "period": 4,
+          "phase": "Solid",
+          "symbol": "Cr",
+          "xpos": 20,
+          "ypos": 4,
+          "shells": [
+              2,
+              8,
+              13,
+              1
+          ]
+      },
+      {
+          "name": "Manganese",
+          "mass": 54.9380443,
+          "category": "transition metal",
+          "number": 25,
+          "period": 4,
+          "phase": "Solid",
+          "symbol": "Mn",
+          "xpos": 21,
+          "ypos": 4,
+          "shells": [
+              2,
+              8,
+              13,
+              2
+          ]
+      },
+      {
+          "name": "Iron",
+          "mass": 55.8452,
+          "category": "transition metal",
+          "number": 26,
+          "period": 4,
+          "phase": "Solid",
+          "symbol": "Fe",
+          "xpos": 22,
+          "ypos": 4,
+          "shells": [
+              2,
+              8,
+              14,
+              2
+          ]
+      },
+      {
+          "name": "Cobalt",
+          "mass": 58.9331944,
+          "category": "transition metal",
+          "number": 27,
+          "period": 4,
+          "phase": "Solid",
+          "symbol": "Co",
+          "xpos": 23,
+          "ypos": 4,
+          "shells": [
+              2,
+              8,
+              15,
+              2
+          ]
+      },
+      {
+          "name": "Nickel",
+          "mass": 58.69344,
+          "category": "transition metal",
+          "number": 28,
+          "period": 4,
+          "phase": "Solid",
+          "symbol": "Ni",
+          "xpos": 24,
+          "ypos": 4,
+          "shells": [
+              2,
+              8,
+              16,
+              2
+          ]
+      },
+      {
+          "name": "Copper",
+          "mass": 63.5463,
+          "category": "transition metal",
+          "number": 29,
+          "period": 4,
+          "phase": "Solid",
+          "symbol": "Cu",
+          "xpos": 25,
+          "ypos": 4,
+          "shells": [
+              2,
+              8,
+              18,
+              1
+          ]
+      },
+      {
+          "name": "Zinc",
+          "mass": 65.382,
+          "category": "transition metal",
+          "number": 30,
+          "period": 4,
+          "phase": "Solid",
+          "symbol": "Zn",
+          "xpos": 26,
+          "ypos": 4,
+          "shells": [
+              2,
+              8,
+              18,
+              2
+          ]
+      },
+      {
+          "name": "Gallium",
+          "mass": 69.7231,
+          "category": "post-transition metal",
+          "number": 31,
+          "period": 4,
+          "phase": "Solid",
+          "symbol": "Ga",
+          "xpos": 27,
+          "ypos": 4,
+          "shells": [
+              2,
+              8,
+              18,
+              3
+          ]
+      },
+      {
+          "name": "Germanium",
+          "mass": 72.6308,
+          "category": "metalloid",
+          "number": 32,
+          "period": 4,
+          "phase": "Solid",
+          "symbol": "Ge",
+          "xpos": 28,
+          "ypos": 4,
+          "shells": [
+              2,
+              8,
+              18,
+              4
+          ]
+      },
+      {
+          "name": "Arsenic",
+          "mass": 74.9215956,
+          "category": "metalloid",
+          "number": 33,
+          "period": 4,
+          "phase": "Solid",
+          "symbol": "As",
+          "xpos": 29,
+          "ypos": 4,
+          "shells": [
+              2,
+              8,
+              18,
+              5
+          ]
+      },
+      {
+          "name": "Selenium",
+          "mass": 78.9718,
+          "category": "polyatomic nonmetal",
+          "number": 34,
+          "period": 4,
+          "phase": "Solid",
+          "symbol": "Se",
+          "xpos": 30,
+          "ypos": 4,
+          "shells": [
+              2,
+              8,
+              18,
+              6
+          ]
+      },
+      {
+          "name": "Bromine",
+          "mass": 79.904,
+          "category": "diatomic halogen",
+          "number": 35,
+          "period": 4,
+          "phase": "Liquid",
+          "symbol": "Br",
+          "xpos": 17,
+          "ypos": 4,
+          "shells": [
+              2,
+              8,
+              18,
+              7
+          ]
+      },
+      {
+          "name": "Krypton",
+          "mass": 83.7982,
+          "category": "noble gas",
+          "number": 36,
+          "period": 4,
+          "phase": "Gas",
+          "symbol": "Kr",
+          "xpos": 18,
+          "ypos": 4,
+          "shells": [
+              2,
+              8,
+              18,
+              8
+          ]
+      },
+      {
+          "name": "Rubidium",
+          "mass": 85.46783,
+          "category": "alkali metal",
+          "number": 37,
+          "period": 5,
+          "phase": "Solid",
+          "symbol": "Rb",
+          "xpos": 1,
+          "ypos": 5,
+          "shells": [
+              2,
+              8,
+              18,
+              8,
+              1
+          ]
+      },
+      {
+          "name": "Strontium",
+          "mass": 87.621,
+          "category": "alkaline earth metal",
+          "number": 38,
+          "period": 5,
+          "phase": "Solid",
+          "symbol": "Sr",
+          "xpos": 2,
+          "ypos": 5,
+          "shells": [
+              2,
+              8,
+              18,
+              8,
+              2
+          ]
+      },
+      {
+          "name": "Yttrium",
+          "mass": 88.905842,
+          "category": "transition metal",
+          "number": 39,
+          "period": 5,
+          "phase": "Solid",
+          "symbol": "Y",
+          "xpos": 17,
+          "ypos": 5,
+          "shells": [
+              2,
+              8,
+              18,
+              9,
+              2
+          ]
+      },
+      {
+          "name": "Zirconium",
+          "mass": 91.2242,
+          "category": "transition metal",
+          "number": 40,
+          "period": 5,
+          "phase": "Solid",
+          "symbol": "Zr",
+          "xpos": 18,
+          "ypos": 5,
+          "shells": [
+              2,
+              8,
+              18,
+              10,
+              2
+          ]
+      },
+      {
+          "name": "Niobium",
+          "mass": 92.906372,
+          "category": "transition metal",
+          "number": 41,
+          "period": 5,
+          "phase": "Solid",
+          "symbol": "Nb",
+          "xpos": 19,
+          "ypos": 5,
+          "shells": [
+              2,
+              8,
+              18,
+              12,
+              1
+          ]
+      },
+      {
+          "name": "Molybdenum",
+          "mass": 95.951,
+          "category": "transition metal",
+          "number": 42,
+          "period": 5,
+          "phase": "Solid",
+          "symbol": "Mo",
+          "xpos": 20,
+          "ypos": 5,
+          "shells": [
+              2,
+              8,
+              18,
+              13,
+              1
+          ]
+      },
+      {
+          "name": "Technetium",
+          "mass": 98,
+          "category": "transition metal",
+          "number": 43,
+          "period": 5,
+          "phase": "Solid",
+          "symbol": "Tc",
+          "xpos": 21,
+          "ypos": 5,
+          "shells": [
+              2,
+              8,
+              18,
+              13,
+              2
+          ]
+      },
+      {
+          "name": "Ruthenium",
+          "mass": 101.072,
+          "category": "transition metal",
+          "number": 44,
+          "period": 5,
+          "phase": "Solid",
+          "symbol": "Ru",
+          "xpos": 22,
+          "ypos": 5,
+          "shells": [
+              2,
+              8,
+              18,
+              15,
+              1
+          ]
+      },
+      {
+          "name": "Rhodium",
+          "mass": 102.905502,
+          "category": "transition metal",
+          "number": 45,
+          "period": 5,
+          "phase": "Solid",
+          "symbol": "Rh",
+          "xpos": 23,
+          "ypos": 5,
+          "shells": [
+              2,
+              8,
+              18,
+              16,
+              1
+          ]
+      },
+      {
+          "name": "Palladium",
+          "mass": 106.421,
+          "category": "transition metal",
+          "number": 46,
+          "period": 5,
+          "phase": "Solid",
+          "symbol": "Pd",
+          "xpos": 24,
+          "ypos": 5,
+          "shells": [
+              2,
+              8,
+              18,
+              18
+          ]
+      },
+      {
+          "name": "Silver",
+          "mass": 107.86822,
+          "category": "transition metal",
+          "number": 47,
+          "period": 5,
+          "phase": "Solid",
+          "symbol": "Ag",
+          "xpos": 25,
+          "ypos": 5,
+          "shells": [
+              2,
+              8,
+              18,
+              18,
+              1
+          ]
+      },
+      {
+          "name": "Cadmium",
+          "mass": 112.4144,
+          "category": "transition metal",
+          "number": 48,
+          "period": 5,
+          "phase": "Solid",
+          "symbol": "Cd",
+          "xpos": 26,
+          "ypos": 5,
+          "shells": [
+              2,
+              8,
+              18,
+              18,
+              2
+          ]
+      },
+      {
+          "name": "Indium",
+          "mass": 114.8181,
+          "category": "post-transition metal",
+          "number": 49,
+          "period": 5,
+          "phase": "Solid",
+          "symbol": "In",
+          "xpos": 27,
+          "ypos": 5,
+          "shells": [
+              2,
+              8,
+              18,
+              18,
+              3
+          ]
+      },
+      {
+          "name": "Tin",
+          "mass": 118.7107,
+          "category": "post-transition metal",
+          "number": 50,
+          "period": 5,
+          "phase": "Solid",
+          "symbol": "Sn",
+          "xpos": 28,
+          "ypos": 5,
+          "shells": [
+              2,
+              8,
+              18,
+              18,
+              4
+          ]
+      },
+      {
+          "name": "Antimony",
+          "mass": 121.7601,
+          "category": "metalloid",
+          "number": 51,
+          "period": 5,
+          "phase": "Solid",
+          "symbol": "Sb",
+          "xpos": 29,
+          "ypos": 5,
+          "shells": [
+              2,
+              8,
+              18,
+              18,
+              5
+          ]
+      },
+      {
+          "name": "Tellurium",
+          "mass": 127.603,
+          "category": "metalloid",
+          "number": 52,
+          "period": 5,
+          "phase": "Solid",
+          "symbol": "Te",
+          "xpos": 30,
+          "ypos": 5,
+          "shells": [
+              2,
+              8,
+              18,
+              18,
+              6
+          ]
+      },
+      {
+          "name": "Iodine",
+          "mass": 126.904473,
+          "category": "diatomic halogen",
+          "number": 53,
+          "period": 5,
+          "phase": "Solid",
+          "symbol": "I",
+          "xpos": 31,
+          "ypos": 5,
+          "shells": [
+              2,
+              8,
+              18,
+              18,
+              7
+          ]
+      },
+      {
+          "name": "Xenon",
+          "mass": 131.2936,
+          "category": "noble gas",
+          "number": 54,
+          "period": 5,
+          "phase": "Gas",
+          "symbol": "Xe",
+          "xpos": 32,
+          "ypos": 5,
+          "shells": [
+              2,
+              8,
+              18,
+              18,
+              8
+          ]
+      },
+      {
+          "name": "Cesium",
+          "mass": 132.905451966,
+          "category": "alkali metal",
+          "number": 55,
+          "period": 6,
+          "phase": "Solid",
+          "symbol": "Cs",
+          "xpos": 1,
+          "ypos": 6,
+          "shells": [
+              2,
+              8,
+              18,
+              18,
+              8,
+              1
+          ]
+      },
+      {
+          "name": "Barium",
+          "mass": 137.3277,
+          "category": "alkaline earth metal",
+          "number": 56,
+          "period": 6,
+          "phase": "Solid",
+          "symbol": "Ba",
+          "xpos": 2,
+          "ypos": 6,
+          "shells": [
+              2,
+              8,
+              18,
+              18,
+              8,
+              2
+          ]
+      },
+      {
+          "name": "Lanthanum",
+          "mass": 138.905477,
+          "category": "lanthanide",
+          "number": 57,
+          "period": 6,
+          "phase": "Solid",
+          "symbol": "La",
+          "xpos": 3,
+          "ypos": 6,
+          "shells": [
+              2,
+              8,
+              18,
+              18,
+              9,
+              2
+          ]
+      },
+      {
+          "name": "Cerium",
+          "mass": 140.1161,
+          "category": "lanthanide",
+          "number": 58,
+          "period": 6,
+          "phase": "Solid",
+          "symbol": "Ce",
+          "xpos": 4,
+          "ypos": 6,
+          "shells": [
+              2,
+              8,
+              18,
+              19,
+              9,
+              2
+          ]
+      },
+      {
+          "name": "Praseodymium",
+          "mass": 140.907662,
+          "category": "lanthanide",
+          "number": 59,
+          "period": 6,
+          "phase": "Solid",
+          "symbol": "Pr",
+          "xpos": 5,
+          "ypos": 6,
+          "shells": [
+              2,
+              8,
+              18,
+              21,
+              8,
+              2
+          ]
+      },
+      {
+          "name": "Neodymium",
+          "mass": 144.2423,
+          "category": "lanthanide",
+          "number": 60,
+          "period": 6,
+          "phase": "Solid",
+          "symbol": "Nd",
+          "xpos": 6,
+          "ypos": 6,
+          "shells": [
+              2,
+              8,
+              18,
+              22,
+              8,
+              2
+          ]
+      },
+      {
+          "name": "Promethium",
+          "mass": 145,
+          "category": "lanthanide",
+          "number": 61,
+          "period": 6,
+          "phase": "Solid",
+          "symbol": "Pm",
+          "xpos": 7,
+          "ypos": 6,
+          "shells": [
+              2,
+              8,
+              18,
+              23,
+              8,
+              2
+          ]
+      },
+      {
+          "name": "Samarium",
+          "mass": 150.362,
+          "category": "lanthanide",
+          "number": 62,
+          "period": 6,
+          "phase": "Solid",
+          "symbol": "Sm",
+          "xpos": 8,
+          "ypos": 6,
+          "shells": [
+              2,
+              8,
+              18,
+              24,
+              8,
+              2
+          ]
+      },
+      {
+          "name": "Europium",
+          "mass": 151.9641,
+          "category": "lanthanide",
+          "number": 63,
+          "period": 6,
+          "phase": "Solid",
+          "symbol": "Eu",
+          "xpos": 9,
+          "ypos": 6,
+          "shells": [
+              2,
+              8,
+              18,
+              25,
+              8,
+              2
+          ]
+      },
+      {
+          "name": "Gadolinium",
+          "mass": 157.253,
+          "category": "lanthanide",
+          "number": 64,
+          "period": 6,
+          "phase": "Solid",
+          "symbol": "Gd",
+          "xpos": 10,
+          "ypos": 6,
+          "shells": [
+              2,
+              8,
+              18,
+              25,
+              9,
+              2
+          ]
+      },
+      {
+          "name": "Terbium",
+          "mass": 158.925352,
+          "category": "lanthanide",
+          "number": 65,
+          "period": 6,
+          "phase": "Solid",
+          "symbol": "Tb",
+          "xpos": 11,
+          "ypos": 6,
+          "shells": [
+              2,
+              8,
+              18,
+              27,
+              8,
+              2
+          ]
+      },
+      {
+          "name": "Dysprosium",
+          "mass": 162.5001,
+          "category": "lanthanide",
+          "number": 66,
+          "period": 6,
+          "phase": "Solid",
+          "symbol": "Dy",
+          "xpos": 12,
+          "ypos": 6,
+          "shells": [
+              2,
+              8,
+              18,
+              28,
+              8,
+              2
+          ]
+      },
+      {
+          "name": "Holmium",
+          "mass": 164.930332,
+          "category": "lanthanide",
+          "number": 67,
+          "period": 6,
+          "phase": "Solid",
+          "symbol": "Ho",
+          "xpos": 13,
+          "ypos": 6,
+          "shells": [
+              2,
+              8,
+              18,
+              29,
+              8,
+              2
+          ]
+      },
+      {
+          "name": "Erbium",
+          "mass": 167.2593,
+          "category": "lanthanide",
+          "number": 68,
+          "period": 6,
+          "phase": "Solid",
+          "symbol": "Er",
+          "xpos": 14,
+          "ypos": 6,
+          "shells": [
+              2,
+              8,
+              18,
+              30,
+              8,
+              2
+          ]
+      },
+      {
+          "name": "Thulium",
+          "mass": 168.934222,
+          "category": "lanthanide",
+          "number": 69,
+          "period": 6,
+          "phase": "Solid",
+          "symbol": "Tm",
+          "xpos": 15,
+          "ypos": 6,
+          "shells": [
+              2,
+              8,
+              18,
+              31,
+              8,
+              2
+          ]
+      },
+      {
+          "name": "Ytterbium",
+          "mass": 173.0451,
+          "category": "lanthanide",
+          "number": 70,
+          "period": 6,
+          "phase": "Solid",
+          "symbol": "Yb",
+          "xpos": 16,
+          "ypos": 6,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              8,
+              2
+          ]
+      },
+      {
+          "name": "Lutetium",
+          "mass": 174.96681,
+          "category": "lanthanide",
+          "number": 71,
+          "period": 6,
+          "phase": "Solid",
+          "symbol": "Lu",
+          "xpos": 17,
+          "ypos": 6,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              9,
+              2
+          ]
+      },
+      {
+          "name": "Hafnium",
+          "mass": 178.492,
+          "category": "transition metal",
+          "number": 72,
+          "period": 6,
+          "phase": "Solid",
+          "symbol": "Hf",
+          "xpos": 18,
+          "ypos": 6,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              10,
+              2
+          ]
+      },
+      {
+          "name": "Tantalum",
+          "mass": 180.947882,
+          "category": "transition metal",
+          "number": 73,
+          "period": 6,
+          "phase": "Solid",
+          "symbol": "Ta",
+          "xpos": 19,
+          "ypos": 6,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              11,
+              2
+          ]
+      },
+      {
+          "name": "Tungsten",
+          "mass": 183.841,
+          "category": "transition metal",
+          "number": 74,
+          "period": 6,
+          "phase": "Solid",
+          "symbol": "W",
+          "xpos": 20,
+          "ypos": 6,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              12,
+              2
+          ]
+      },
+      {
+          "name": "Rhenium",
+          "mass": 186.2071,
+          "category": "transition metal",
+          "number": 75,
+          "period": 6,
+          "phase": "Solid",
+          "symbol": "Re",
+          "xpos": 21,
+          "ypos": 6,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              13,
+              2
+          ]
+      },
+      {
+          "name": "Osmium",
+          "mass": 190.233,
+          "category": "transition metal",
+          "number": 76,
+          "period": 6,
+          "phase": "Solid",
+          "symbol": "Os",
+          "xpos": 22,
+          "ypos": 6,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              14,
+              2
+          ]
+      },
+      {
+          "name": "Iridium",
+          "mass": 192.2173,
+          "category": "transition metal",
+          "number": 77,
+          "period": 6,
+          "phase": "Solid",
+          "symbol": "Ir",
+          "xpos": 23,
+          "ypos": 6,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              15,
+              2
+          ]
+      },
+      {
+          "name": "Platinum",
+          "mass": 195.0849,
+          "category": "transition metal",
+          "number": 78,
+          "period": 6,
+          "phase": "Solid",
+          "symbol": "Pt",
+          "xpos": 24,
+          "ypos": 6,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              17,
+              1
+          ]
+      },
+      {
+          "name": "Gold",
+          "mass": 196.9665695,
+          "category": "transition metal",
+          "number": 79,
+          "period": 6,
+          "phase": "Solid",
+          "symbol": "Au",
+          "xpos": 25,
+          "ypos": 6,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              18,
+              1
+          ]
+      },
+      {
+          "name": "Mercury",
+          "mass": 200.5923,
+          "category": "transition metal",
+          "number": 80,
+          "period": 6,
+          "phase": "Liquid",
+          "symbol": "Hg",
+          "xpos": 26,
+          "ypos": 6,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              18,
+              2
+          ]
+      },
+      {
+          "name": "Thallium",
+          "mass": 204.38,
+          "category": "post-transition metal",
+          "number": 81,
+          "period": 6,
+          "phase": "Solid",
+          "symbol": "Tl",
+          "xpos": 27,
+          "ypos": 6,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              18,
+              3
+          ]
+      },
+      {
+          "name": "Lead",
+          "mass": 207.21,
+          "category": "post-transition metal",
+          "number": 82,
+          "period": 6,
+          "phase": "Solid",
+          "symbol": "Pb",
+          "xpos": 28,
+          "ypos": 6,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              18,
+              4
+          ]
+      },
+      {
+          "name": "Bismuth",
+          "mass": 208.980401,
+          "category": "post-transition metal",
+          "number": 83,
+          "period": 6,
+          "phase": "Solid",
+          "symbol": "Bi",
+          "xpos": 29,
+          "ypos": 6,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              18,
+              5
+          ]
+      },
+      {
+          "name": "Polonium",
+          "mass": 209,
+          "category": "post-transition metal",
+          "number": 84,
+          "period": 6,
+          "phase": "Solid",
+          "symbol": "Po",
+          "xpos": 30,
+          "ypos": 6,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              18,
+              6
+          ]
+      },
+      {
+          "name": "Astatine",
+          "mass": 210,
+          "category": "metalloid",
+          "number": 85,
+          "period": 6,
+          "phase": "Solid",
+          "symbol": "At",
+          "xpos": 31,
+          "ypos": 6,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              18,
+              7
+          ]
+      },
+      {
+          "name": "Radon",
+          "mass": 222,
+          "category": "noble gas",
+          "number": 86,
+          "period": 6,
+          "phase": "Gas",
+          "symbol": "Rn",
+          "xpos": 32,
+          "ypos": 6,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              18,
+              8
+          ]
+      },
+      {
+          "name": "Francium",
+          "mass": 223,
+          "category": "alkali metal",
+          "number": 87,
+          "period": 7,
+          "phase": "Solid",
+          "symbol": "Fr",
+          "xpos": 1,
+          "ypos": 7,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              18,
+              8,
+              1
+          ]
+      },
+      {
+          "name": "Radium",
+          "mass": 226,
+          "category": "alkaline earth metal",
+          "number": 88,
+          "period": 7,
+          "phase": "Solid",
+          "symbol": "Ra",
+          "xpos": 2,
+          "ypos": 7,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              18,
+              8,
+              2
+          ]
+      },
+      {
+          "name": "Actinium",
+          "mass": 227,
+          "category": "actinide",
+          "number": 89,
+          "period": 7,
+          "phase": "Solid",
+          "symbol": "Ac",
+          "xpos": 3,
+          "ypos": 7,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              18,
+              9,
+              2
+          ]
+      },
+      {
+          "name": "Thorium",
+          "mass": 232.03774,
+          "category": "actinide",
+          "number": 90,
+          "period": 7,
+          "phase": "Solid",
+          "symbol": "Th",
+          "xpos": 4,
+          "ypos": 7,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              18,
+              10,
+              2
+          ]
+      },
+      {
+          "name": "Protactinium",
+          "mass": 231.035882,
+          "category": "actinide",
+          "number": 91,
+          "period": 7,
+          "phase": "Solid",
+          "symbol": "Pa",
+          "xpos": 5,
+          "ypos": 7,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              20,
+              9,
+              2
+          ]
+      },
+      {
+          "name": "Uranium",
+          "mass": 238.028913,
+          "category": "actinide",
+          "number": 92,
+          "period": 7,
+          "phase": "Solid",
+          "symbol": "U",
+          "xpos": 6,
+          "ypos": 7,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              21,
+              9,
+              2
+          ]
+      },
+      {
+          "name": "Neptunium",
+          "mass": 237,
+          "category": "actinide",
+          "number": 93,
+          "period": 7,
+          "phase": "Solid",
+          "symbol": "Np",
+          "xpos": 7,
+          "ypos": 7,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              22,
+              9,
+              2
+          ]
+      },
+      {
+          "name": "Plutonium",
+          "mass": 244,
+          "category": "actinide",
+          "number": 94,
+          "period": 7,
+          "phase": "Solid",
+          "symbol": "Pu",
+          "xpos": 8,
+          "ypos": 7,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              24,
+              8,
+              2
+          ]
+      },
+      {
+          "name": "Americium",
+          "mass": 243,
+          "category": "actinide",
+          "number": 95,
+          "period": 7,
+          "phase": "Solid",
+          "symbol": "Am",
+          "xpos": 9,
+          "ypos": 7,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              25,
+              8,
+              2
+          ]
+      },
+      {
+          "name": "Curium",
+          "mass": 247,
+          "category": "actinide",
+          "number": 96,
+          "period": 7,
+          "phase": "Solid",
+          "symbol": "Cm",
+          "xpos": 10,
+          "ypos": 7,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              25,
+              9,
+              2
+          ]
+      },
+      {
+          "name": "Berkelium",
+          "mass": 247,
+          "category": "actinide",
+          "number": 97,
+          "period": 7,
+          "phase": "Solid",
+          "symbol": "Bk",
+          "xpos": 11,
+          "ypos": 7,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              27,
+              8,
+              2
+          ]
+      },
+      {
+          "name": "Californium",
+          "mass": 251,
+          "category": "actinide",
+          "number": 98,
+          "period": 7,
+          "phase": "Solid",
+          "symbol": "Cf",
+          "xpos": 12,
+          "ypos": 7,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              28,
+              8,
+              2
+          ]
+      },
+      {
+          "name": "Einsteinium",
+          "mass": 252,
+          "category": "actinide",
+          "number": 99,
+          "period": 7,
+          "phase": "Solid",
+          "symbol": "Es",
+          "xpos": 13,
+          "ypos": 7,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              29,
+              8,
+              2
+          ]
+      },
+      {
+          "name": "Fermium",
+          "mass": 257,
+          "category": "actinide",
+          "number": 100,
+          "period": 7,
+          "phase": "Solid",
+          "symbol": "Fm",
+          "xpos": 14,
+          "ypos": 7,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              30,
+              8,
+              2
+          ]
+      },
+      {
+          "name": "Mendelevium",
+          "mass": 258,
+          "category": "actinide",
+          "number": 101,
+          "period": 7,
+          "phase": "Solid",
+          "symbol": "Md",
+          "xpos": 15,
+          "ypos": 7,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              31,
+              8,
+              2
+          ]
+      },
+      {
+          "name": "Nobelium",
+          "mass": 259,
+          "category": "actinide",
+          "number": 102,
+          "period": 7,
+          "phase": "Solid",
+          "symbol": "No",
+          "xpos": 16,
+          "ypos": 7,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              32,
+              8,
+              2
+          ]
+      },
+      {
+          "name": "Lawrencium",
+          "mass": 266,
+          "category": "actinide",
+          "number": 103,
+          "period": 7,
+          "phase": "Solid",
+          "symbol": "Lr",
+          "xpos": 17,
+          "ypos": 7,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              32,
+              8,
+              3
+          ]
+      },
+      {
+          "name": "Rutherfordium",
+          "mass": 267,
+          "category": "transition metal",
+          "number": 104,
+          "period": 7,
+          "phase": "Solid",
+          "symbol": "Rf",
+          "xpos": 18,
+          "ypos": 7,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              32,
+              10,
+              2
+          ]
+      },
+      {
+          "name": "Dubnium",
+          "mass": 268,
+          "category": "transition metal",
+          "number": 105,
+          "period": 7,
+          "phase": "Solid",
+          "symbol": "Db",
+          "xpos": 19,
+          "ypos": 7,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              32,
+              11,
+              2
+          ]
+      },
+      {
+          "name": "Seaborgium",
+          "mass": 269,
+          "category": "transition metal",
+          "number": 106,
+          "period": 7,
+          "phase": "Solid",
+          "symbol": "Sg",
+          "xpos": 20,
+          "ypos": 7,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              32,
+              12,
+              2
+          ]
+      },
+      {
+          "name": "Bohrium",
+          "mass": 270,
+          "category": "transition metal",
+          "number": 107,
+          "period": 7,
+          "phase": "Solid",
+          "symbol": "Bh",
+          "xpos": 21,
+          "ypos": 7,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              32,
+              13,
+              2
+          ]
+      },
+      {
+          "name": "Hassium",
+          "mass": 269,
+          "category": "transition metal",
+          "number": 108,
+          "period": 7,
+          "phase": "Solid",
+          "symbol": "Hs",
+          "xpos": 22,
+          "ypos": 7,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              32,
+              14,
+              2
+          ]
+      },
+      {
+          "name": "Meitnerium",
+          "mass": 278,
+          "category": "unknown, probably transition metal",
+          "number": 109,
+          "period": 7,
+          "phase": "Solid",
+          "symbol": "Mt",
+          "xpos": 23,
+          "ypos": 7,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              32,
+              15,
+              2
+          ]
+      },
+      {
+          "name": "Darmstadtium",
+          "mass": 281,
+          "category": "unknown, probably transition metal",
+          "number": 110,
+          "period": 7,
+          "phase": "Solid",
+          "symbol": "Ds",
+          "xpos": 24,
+          "ypos": 7,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              32,
+              16,
+              2
+          ]
+      },
+      {
+          "name": "Roentgenium",
+          "mass": 282,
+          "category": "unknown, probably transition metal",
+          "number": 111,
+          "period": 7,
+          "phase": "Solid",
+          "symbol": "Rg",
+          "xpos": 25,
+          "ypos": 7,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              32,
+              17,
+              2
+          ]
+      },
+      {
+          "name": "Copernicium",
+          "mass": 285,
+          "category": "transition metal",
+          "number": 112,
+          "period": 7,
+          "phase": "Gas",
+          "symbol": "Cn",
+          "xpos": 26,
+          "ypos": 7,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              32,
+              18,
+              2
+          ]
+      },
+      {
+          "name": "Nihonium",
+          "mass": 286,
+          "category": "unknown, probably transition metal",
+          "number": 113,
+          "period": 7,
+          "phase": "Solid",
+          "symbol": "Nh",
+          "xpos": 27,
+          "ypos": 7,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              32,
+              18,
+              3
+          ]
+      },
+      {
+          "name": "Flerovium",
+          "mass": 289,
+          "category": "post-transition metal",
+          "number": 114,
+          "period": 7,
+          "phase": "Solid",
+          "symbol": "Fl",
+          "xpos": 28,
+          "ypos": 7,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              32,
+              18,
+              4
+          ]
+      },
+      {
+          "name": "Moscovium",
+          "mass": 289,
+          "category": "unknown, probably post-transition metal",
+          "number": 115,
+          "period": 7,
+          "phase": "Solid",
+          "symbol": "Mc",
+          "xpos": 29,
+          "ypos": 7,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              32,
+              18,
+              5
+          ]
+      },
+      {
+          "name": "Livermorium",
+          "mass": 293,
+          "category": "unknown, probably post-transition metal",
+          "number": 116,
+          "period": 7,
+          "phase": "Solid",
+          "symbol": "Lv",
+          "xpos": 30,
+          "ypos": 7,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              32,
+              18,
+              6
+          ]
+      },
+      {
+          "name": "Tennessine",
+          "mass": 294,
+          "category": "unknown, probably metalloid",
+          "number": 117,
+          "period": 7,
+          "phase": "Solid",
+          "symbol": "Ts",
+          "xpos": 31,
+          "ypos": 7,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              32,
+              18,
+              7
+          ]
+      },
+      {
+          "name": "Oganesson",
+          "mass": 294,
+          "category": "unknown, predicted to be noble gas",
+          "number": 118,
+          "period": 7,
+          "phase": "Solid",
+          "symbol": "Og",
+          "xpos": 32,
+          "ypos": 7,
+          "shells": [
+              2,
+              8,
+              18,
+              32,
+              32,
+              18,
+              8
+          ]
+      }
+  ]
+}

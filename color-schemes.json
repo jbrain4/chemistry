@@ -1,0 +1,30 @@
+{
+  "default": {
+    "reset": "0m",
+    "unknown": "48;5;249;38;5;0m",
+    "noble gas": "48;5;199;38;5;0m",
+    "halogen": "48;5;5;38;5;0m",
+    "metalloid": "48;5;4;38;5;0m",
+    "post-transition metal": "48;5;2;38;5;0m",
+    "transition metal": "48;5;3;38;5;0m",
+    "actinide": "48;5;173;38;5;0m",
+    "lanthanide": "48;5;137;38;5;0m",
+    "alkaline earth metal": "48;5;208;38;5;0m",
+    "alkali metal": "48;5;1;38;5;0m",
+    "nonmetal": "48;5;12;38;5;0m"
+  },
+  "monochrome": {
+    "reset": "0m",
+    "unknown": "48;5;240;38;5;7m",
+    "noble gas": "48;5;242;38;5;0m",
+    "halogen": "48;5;244;38;5;0m",
+    "metalloid": "48;5;246;38;5;0m",
+    "post-transition metal": "48;5;248;38;5;0m",
+    "transition metal": "48;5;250;38;5;0m",
+    "actinide": "48;5;252;38;5;0m",
+    "lanthanide": "48;5;254;38;5;0m",
+    "alkaline earth metal": "48;5;255;38;5;0m",
+    "alkali metal": "48;5;236;38;5;7m",
+    "nonmetal": "48;5;238;38;5;7m"
+  }
+}
