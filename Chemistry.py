@@ -71,10 +71,12 @@ exist' % queryAttribute
                 print('The theme %s does not exist.' % theme)
 
         # Displays the queried element's location on the periodic table
-        def elementLocation(self, attribute=None, query=None, theme='default'):
+        def elementLocation(self, queryAttribute=None, value=None,
+                            theme='default'):
             global table
             global colors
-            queriedElement = self.getElementAttribute('name', attribute, query)
+            queriedElement = self.getElementAttribute('name', queryAttribute,
+                                                      value)
 
             try:
                 colorScheme = colors[theme]
