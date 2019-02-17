@@ -1,11 +1,5 @@
-# Chemistry
-
-A simple chemistry class.
-
-NOTE: Periodic table class is the only subclass available at the moment
-
-## Periodic Table
-### Methods:
+# Periodic Table
+## Methods:
 - `getElementAttribute` can be used to get an unknown attribute of an element based on a known attribute
   - `attribute` argument defines the attribute you would like to get (string)
   - `queryAttribute` is the name of the attribute that is known (string)
